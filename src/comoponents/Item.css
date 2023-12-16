@@ -1,0 +1,12 @@
+.male {
+  background-color: #7ec3fb;
+  border-radius: 10px;
+}
+.female {
+  background-color: #fb7ef2;
+  border-radius: 10px;
+}
+li {
+  background-color: rgb(206, 123, 245);
+  border-radius: 10px;
+}

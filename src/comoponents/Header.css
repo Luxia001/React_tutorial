@@ -1,0 +1,15 @@
+nav {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  padding: 0px 3%;
+}
+img {
+  width: 100px;
+}
+
+a {
+  margin: 0px 5px;
+}
